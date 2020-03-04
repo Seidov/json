@@ -210,6 +210,27 @@
     "portrayed": "Dean Norris",
     "category": "Breaking Bad",
     "better_call_saul_appearance": []
+  },
+  {
+    "char_id": 6,
+    "name": "Seidov",
+    "birthday": "Unknown",
+    "occupation": [
+      "DEA Agent"
+    ],
+    "img": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c1/Hank_Schrader2.jpg/220px-Hank_Schrader2.jpg",
+    "status": "Deceased",
+    "nickname": "Hank",
+    "appearance": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "portrayed": "Dean Norris",
+    "category": "Breaking Bad",
+    "better_call_saul_appearance": []
   }
   ]
 }
