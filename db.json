@@ -1,4 +1,136 @@
 {
+  "charlist": [
+    {
+      "char_id": 1,
+      "name": "Walter White",
+      "birthday": "09-07-1958",
+      "occupation": [
+        "High School Chemistry Teacher",
+        "Meth King Pin"
+      ],
+      "img": "https://images.amcnetworks.com/amc.com/wp-content/uploads/2015/04/cast_bb_700x1000_walter-white-lg.jpg",
+      "status": "Presumed dead",
+      "nickname": "Heisenberg",
+      "appearance": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "portrayed": "Bryan Cranston",
+      "category": "Breaking Bad",
+      "better_call_saul_appearance": []
+    },
+    {
+      "char_id": 2,
+      "name": "Jesse Pinkman",
+      "birthday": "09-24-1984",
+      "occupation": [
+        "Meth Dealer"
+      ],
+      "img": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Jesse_Pinkman2.jpg/220px-Jesse_Pinkman2.jpg",
+      "status": "Alive",
+      "nickname": "Cap n' Cook",
+      "appearance": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "portrayed": "Aaron Paul",
+      "category": "Breaking Bad",
+      "better_call_saul_appearance": []
+    },
+    {
+      "char_id": 3,
+      "name": "Skyler White",
+      "birthday": "08-11-1970",
+      "occupation": [
+        "House wife",
+        "Book Keeper",
+        "Car Wash Manager",
+        "Taxi Dispatcher"
+      ],
+      "img": "https://s-i.huffpost.com/gen/1317262/images/o-ANNA-GUNN-facebook.jpg",
+      "status": "Alive",
+      "nickname": "Sky",
+      "appearance": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "portrayed": "Anna Gunn",
+      "category": "Breaking Bad",
+      "better_call_saul_appearance": []
+    },
+    {
+      "char_id": 4,
+      "name": "Walter White Jr.",
+      "birthday": "07-08-1993",
+      "occupation": [
+        "Teenager"
+      ],
+      "img": "https://media1.popsugar-assets.com/files/thumbor/WeLUSvbAMS_GL4iELYAUzu7Bpv0/fit-in/1024x1024/filters:format_auto-!!-:strip_icc-!!-/2018/01/12/910/n/1922283/fb758e62b5daf3c9_TCDBRBA_EC011/i/RJ-Mitte-Walter-White-Jr.jpg",
+      "status": "Alive",
+      "nickname": "Flynn",
+      "appearance": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "portrayed": "RJ Mitte",
+      "category": "Breaking Bad",
+      "better_call_saul_appearance": []
+    },
+    {
+      "char_id": 5,
+      "name": "Henry Schrader",
+      "birthday": "Unknown",
+      "occupation": [
+        "DEA Agent"
+      ],
+      "img": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c1/Hank_Schrader2.jpg/220px-Hank_Schrader2.jpg",
+      "status": "Deceased",
+      "nickname": "Hank",
+      "appearance": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "portrayed": "Dean Norris",
+      "category": "Breaking Bad",
+      "better_call_saul_appearance": []
+    },
+    {
+      "char_id": 6,
+      "name": "Seidov",
+      "birthday": "Unknown",
+      "occupation": [
+        "DEA Agent"
+      ],
+      "img": "http://192.168.0.150:21075/eshop/tema/growth/assets/img/sliderbg.jpg",
+      "status": "Deceased",
+      "nickname": "Hank",
+      "appearance": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "portrayed": "Dean Norris",
+      "category": "Breaking Bad",
+      "better_call_saul_appearance": []
+    }
+  ],
   "nesned": [
     {
       "headerTitle": "Fruits",
@@ -101,136 +233,1060 @@
       ]
     }
   ],
-  "charlist":[
-  {
-    "char_id": 1,
-    "name": "Walter White",
-    "birthday": "09-07-1958",
-    "occupation": [
-      "High School Chemistry Teacher",
-      "Meth King Pin"
+  "shops": {
+    "id": 111485,
+    "name": "Gulp design",
+    "slug": "gulp-design-2",
+    "definition": "Özgün illüstrasyon çizimi ile kupa tasarımları",
+    "name_updateable": false,
+    "vacation_mode": 0,
+    "created_at": "2017-10-28 19:29:38",
+    "shop_payment_id": 203,
+    "popular_products": [
+      {
+        "id": 115485,
+        "code": null,
+        "title": "Fly me to the moon",
+        "slug": "fly-me-to-the-moon",
+        "definition": "Hey! \n\nBirbirini tamamlayan ikili kupa takımı olarak üretilmiştir.\n\nÖzel tasarlanan kupalar, süblimasyon baskı tekniği ile üretilmektedir, uzun ömürlüdür. Ilık su ile elde yıkamanız tavsiye edilir.\n\nGüle güle kullanın!",
+        "old_price": 80,
+        "price": 70,
+        "stock": 5,
+        "max_installment": null,
+        "commission_rate": 20,
+        "cargo_time": 3,
+        "is_cargo_free": true,
+        "is_new": true,
+        "reject_reason": null,
+        "category_id": 25,
+        "view_count": 103,
+        "difference": "2 yıl önce eklendi.",
+        "is_editor_choice": true,
+        "comment_count": 0,
+        "is_owner": false,
+        "is_approved": true,
+        "is_active": true,
+        "share_url": "https://www.vitrinova.com/urun/115485/fly-me-to-the-moon",
+        "is_liked": false,
+        "like_count": 0,
+        "images": [
+          {
+            "width": 1006,
+            "height": 1000,
+            "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/fly-me-to-the-moon-4a04c92a-bf77-4fd3-bcce-56d5037adae6.jpg",
+            "medium": {
+              "width": 503,
+              "height": 500,
+              "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/fly-me-to-the-moon-ef63d4ab-5eac-457f-84a7-986eaaaea267.jpg"
+            },
+            "thumbnail": {
+              "width": 251,
+              "height": 250,
+              "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/fly-me-to-the-moon-0dfa2816-9b55-437d-9e28-6e54491bab66.jpg"
+            }
+          },
+          {
+            "width": 1080,
+            "height": 1080,
+            "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/fly-me-to-the-moon-24822690-c022-499d-8b1b-c4c74c9a42d9.jpg",
+            "medium": {
+              "width": 540,
+              "height": 540,
+              "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/fly-me-to-the-moon-67eba8ef-e05a-4000-928a-b5f125788550.jpg"
+            },
+            "thumbnail": {
+              "width": 270,
+              "height": 270,
+              "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/fly-me-to-the-moon-450f0216-e0a7-4cf6-8eaa-967254247bd0.jpg"
+            }
+          },
+          {
+            "width": 1080,
+            "height": 1080,
+            "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/fly-me-to-the-moon-cd54c683-51fa-4239-9c81-a524974e3c87.jpg",
+            "medium": {
+              "width": 540,
+              "height": 540,
+              "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/fly-me-to-the-moon-5eda6bcf-2191-4f94-9622-ff26fd2a1938.jpg"
+            },
+            "thumbnail": {
+              "width": 270,
+              "height": 270,
+              "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/fly-me-to-the-moon-39d69a3f-c00a-478a-bfaf-cd04a4a64f13.jpg"
+            }
+          }
+        ],
+        "category": {
+          "id": 25,
+          "name": "Mutfak",
+          "parent_id": 23,
+          "order": 0,
+          "parent_category": {
+            "id": 23,
+            "name": "Ev & Yaşam",
+            "parent_id": null,
+            "order": 0,
+            "parent_category": null
+          }
+        }
+      },
+      {
+        "id": 115219,
+        "code": null,
+        "title": "Run Forrest run! ?",
+        "slug": "run-forrest-run",
+        "definition": "Özel tasarlanan ürünler, süblimasyon baskı tekniği ile üretilmektedir, uzun ömürlüdür. Ilık su ile elde yıkamanız tavsiye edilir. \n\nGüle güle kullanın!",
+        "old_price": null,
+        "price": 40,
+        "stock": 5,
+        "max_installment": null,
+        "commission_rate": 20,
+        "cargo_time": 3,
+        "is_cargo_free": true,
+        "is_new": true,
+        "reject_reason": null,
+        "category_id": 32,
+        "view_count": 41,
+        "difference": "2 yıl önce eklendi.",
+        "is_editor_choice": false,
+        "comment_count": 0,
+        "is_owner": false,
+        "is_approved": true,
+        "is_active": true,
+        "share_url": "https://www.vitrinova.com/urun/115219/run-forrest-run",
+        "is_liked": false,
+        "like_count": 0,
+        "images": [
+          {
+            "width": 1080,
+            "height": 1075,
+            "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/run-forrest-run-14336a35-671a-4229-a5c5-4c2dcadc5c32.jpg",
+            "medium": {
+              "width": 540,
+              "height": 537,
+              "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/run-forrest-run-920d6b54-5481-487f-b491-9308faa795a3.jpg"
+            },
+            "thumbnail": {
+              "width": 270,
+              "height": 268,
+              "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/run-forrest-run-8de83516-efcc-42b9-a72f-a9cfb49cf82e.jpg"
+            }
+          }
+        ],
+        "category": {
+          "id": 32,
+          "name": "Eğlenceli",
+          "parent_id": null,
+          "order": 0,
+          "parent_category": null
+        }
+      },
+      {
+        "id": 117254,
+        "code": null,
+        "title": "Ballooning ??",
+        "slug": "ballooning",
+        "definition": "Hey! \n\nBirbirini tamamlayan ikili kupa takımı olarak üretilmiştir.\n\nÖzel tasarlanan kupalar, süblimasyon baskı tekniği ile üretilmektedir, uzun ömürlüdür. Ilık su ile elde yıkamanız tavsiye edilir.\n\nGüle güle kullanın!",
+        "old_price": 80,
+        "price": 70,
+        "stock": 5,
+        "max_installment": null,
+        "commission_rate": 20,
+        "cargo_time": 3,
+        "is_cargo_free": true,
+        "is_new": true,
+        "reject_reason": null,
+        "category_id": 25,
+        "view_count": 29,
+        "difference": "2 yıl önce eklendi.",
+        "is_editor_choice": true,
+        "comment_count": 0,
+        "is_owner": false,
+        "is_approved": true,
+        "is_active": true,
+        "share_url": "https://www.vitrinova.com/urun/117254/ballooning",
+        "is_liked": false,
+        "like_count": 0,
+        "images": [
+          {
+            "width": 1006,
+            "height": 1000,
+            "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/ballooning-266b0a83-e84f-42d0-8986-63fdaaba5e91.jpg",
+            "medium": {
+              "width": 503,
+              "height": 500,
+              "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/ballooning-051e8b6c-4697-41ff-8931-702733242118.jpg"
+            },
+            "thumbnail": {
+              "width": 251,
+              "height": 250,
+              "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/ballooning-2ae9ee9c-c7b8-4b80-991a-cf8a459c854b.jpg"
+            }
+          },
+          {
+            "width": 1080,
+            "height": 1080,
+            "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/ballooning-d6e0089e-eda8-4634-980e-1858936b66aa.jpg",
+            "medium": {
+              "width": 540,
+              "height": 540,
+              "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/ballooning-1eb24886-0ccc-42e5-9dca-3a2c7312a022.jpg"
+            },
+            "thumbnail": {
+              "width": 270,
+              "height": 270,
+              "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/ballooning-1a30e401-2dfd-4323-b8f4-d9d58f4719f4.jpg"
+            }
+          },
+          {
+            "width": 1080,
+            "height": 1080,
+            "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/ballooning-98fca4cf-3b3a-4006-a394-a2788439a370.jpg",
+            "medium": {
+              "width": 540,
+              "height": 540,
+              "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/ballooning-9d08dd1e-479e-488f-ae49-5c2266f99ce8.jpg"
+            },
+            "thumbnail": {
+              "width": 270,
+              "height": 270,
+              "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/ballooning-97067ce5-a654-461b-a9f1-3db7669121bf.jpg"
+            }
+          }
+        ],
+        "category": {
+          "id": 25,
+          "name": "Mutfak",
+          "parent_id": 23,
+          "order": 0,
+          "parent_category": {
+            "id": 23,
+            "name": "Ev & Yaşam",
+            "parent_id": null,
+            "order": 0,
+            "parent_category": null
+          }
+        }
+      },
+      {
+        "id": 114305,
+        "code": null,
+        "title": "Knot Bangle",
+        "slug": "knot-bangle",
+        "definition": "Ürünümüz altın kaplamadır. ve bileğe göre ayarlanabilir.\nÜrünlerimizle ilgili her türlü soruda bizimle irtibata geçebilirsiniz. \nTakılarınızın uzun ömürlü olması için kimyasal maddeler ile temasından kaçınınız.",
+        "old_price": null,
+        "price": 70,
+        "stock": 3,
+        "max_installment": null,
+        "commission_rate": 20,
+        "cargo_time": 4,
+        "is_cargo_free": true,
+        "is_new": true,
+        "reject_reason": null,
+        "category_id": 3,
+        "view_count": 87,
+        "difference": "2 yıl önce eklendi.",
+        "is_editor_choice": true,
+        "comment_count": 0,
+        "is_owner": false,
+        "is_approved": true,
+        "is_active": true,
+        "share_url": "https://www.vitrinova.com/urun/114305/knot-bangle",
+        "is_liked": false,
+        "like_count": 0,
+        "images": [
+          {
+            "width": 1080,
+            "height": 1440,
+            "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/knot-bangle-6bcc6d77-2d21-4f73-925d-641de709deb2.jpg",
+            "medium": {
+              "width": 540,
+              "height": 720,
+              "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/knot-bangle-501125de-cda4-4708-889d-61033188ce1f.jpg"
+            },
+            "thumbnail": {
+              "width": 270,
+              "height": 360,
+              "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/knot-bangle-394fe53c-5754-4ec3-bcf3-efc650516821.jpg"
+            }
+          },
+          {
+            "width": 1080,
+            "height": 1440,
+            "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/knot-bangle-11d36362-bf2b-44fd-bc5b-d99e955e7d69.jpg",
+            "medium": {
+              "width": 540,
+              "height": 720,
+              "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/knot-bangle-40dc0250-0591-4d6e-93a0-3749ce509593.jpg"
+            },
+            "thumbnail": {
+              "width": 270,
+              "height": 360,
+              "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/knot-bangle-ed7e2ff7-1fb4-447e-974e-4cd435744f84.jpg"
+            }
+          },
+          {
+            "width": 1080,
+            "height": 1350,
+            "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/knot-bangle-bbc86b05-c275-46bd-b6fc-ca69452ef0a5.jpg",
+            "medium": {
+              "width": 540,
+              "height": 675,
+              "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/knot-bangle-1532584e-4dfd-4f95-8e04-601f7591f6b1.jpg"
+            },
+            "thumbnail": {
+              "width": 270,
+              "height": 337,
+              "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/knot-bangle-e2d46df0-d6ac-4a2b-b8f3-968b7a5ffdc9.jpg"
+            }
+          }
+        ],
+        "category": {
+          "id": 3,
+          "name": "Takı & Aksesuar",
+          "parent_id": 1,
+          "order": 0,
+          "parent_category": {
+            "id": 1,
+            "name": "Kadın",
+            "parent_id": null,
+            "order": 0,
+            "parent_category": null
+          }
+        }
+      },
+      {
+        "id": 114310,
+        "code": null,
+        "title": "Geyik Kolye",
+        "slug": "geyik-kolye",
+        "definition": "Ürünümüz altın kaplamadır. \nÜrünlerimizle ilgili her türlü soruda bizimle irtibata geçebilirsiniz. \nTakılarınızın uzun ömürlü olması için kimyasal maddeler ile temasından kaçınınız.",
+        "old_price": null,
+        "price": 85,
+        "stock": 2,
+        "max_installment": null,
+        "commission_rate": 20,
+        "cargo_time": 4,
+        "is_cargo_free": true,
+        "is_new": true,
+        "reject_reason": null,
+        "category_id": 3,
+        "view_count": 75,
+        "difference": "2 yıl önce eklendi.",
+        "is_editor_choice": true,
+        "comment_count": 0,
+        "is_owner": false,
+        "is_approved": true,
+        "is_active": true,
+        "share_url": "https://www.vitrinova.com/urun/114310/geyik-kolye",
+        "is_liked": false,
+        "like_count": 0,
+        "images": [
+          {
+            "width": 768,
+            "height": 1024,
+            "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/geyik-kolye-5ccc4029-ce4b-4da1-bc9a-a617aebb9547.jpg",
+            "medium": {
+              "width": 384,
+              "height": 512,
+              "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/geyik-kolye-0ab3552f-325c-4e4b-ab17-5c0738eab99e.jpg"
+            },
+            "thumbnail": {
+              "width": 192,
+              "height": 256,
+              "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/geyik-kolye-a911b2d5-0994-4498-8cfc-24a9f9008346.jpg"
+            }
+          },
+          {
+            "width": 768,
+            "height": 1024,
+            "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/geyik-kolye-bdb7bde0-dbfb-460f-81e1-5ec8a1e052de.jpg",
+            "medium": {
+              "width": 384,
+              "height": 512,
+              "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/geyik-kolye-cbb1130a-07f7-4f00-8b86-cb543ba65ff0.jpg"
+            },
+            "thumbnail": {
+              "width": 192,
+              "height": 256,
+              "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/geyik-kolye-37c8995f-d02f-4d72-9f08-945cfbdd63d6.jpg"
+            }
+          },
+          {
+            "width": 1080,
+            "height": 1440,
+            "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/geyik-kolye-08d34009-f77f-44c3-a407-57068cab938b.jpg",
+            "medium": {
+              "width": 540,
+              "height": 720,
+              "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/geyik-kolye-22a6c851-5d9f-4bc4-b18d-8bdad0632b82.jpg"
+            },
+            "thumbnail": {
+              "width": 270,
+              "height": 360,
+              "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/geyik-kolye-0409303c-7c85-4616-a832-b3582a34a1b1.jpg"
+            }
+          }
+        ],
+        "category": {
+          "id": 3,
+          "name": "Takı & Aksesuar",
+          "parent_id": 1,
+          "order": 0,
+          "parent_category": {
+            "id": 1,
+            "name": "Kadın",
+            "parent_id": null,
+            "order": 0,
+            "parent_category": null
+          }
+        }
+      },
+      {
+        "id": 114312,
+        "code": null,
+        "title": "Lotus Küpe",
+        "slug": "lotus-kupe",
+        "definition": "Ürünümüz altın kaplamadır. \nÜrünlerimizle ilgili her türlü soruda bizimle irtibata geçebilirsiniz. \nTakılarınızın uzun ömürlü olması için kimyasal maddeler ile temasından kaçınınız.",
+        "old_price": null,
+        "price": 50,
+        "stock": 2,
+        "max_installment": null,
+        "commission_rate": 20,
+        "cargo_time": 4,
+        "is_cargo_free": true,
+        "is_new": true,
+        "reject_reason": null,
+        "category_id": 3,
+        "view_count": 49,
+        "difference": "2 yıl önce eklendi.",
+        "is_editor_choice": true,
+        "comment_count": 0,
+        "is_owner": false,
+        "is_approved": true,
+        "is_active": true,
+        "share_url": "https://www.vitrinova.com/urun/114312/lotus-kupe",
+        "is_liked": false,
+        "like_count": 0,
+        "images": [
+          {
+            "width": 768,
+            "height": 1024,
+            "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/lotus-kupe-8cdfefa7-af32-4fba-9570-3bd12b0628a7.jpg",
+            "medium": {
+              "width": 384,
+              "height": 512,
+              "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/lotus-kupe-1e3df1dc-82ae-4d45-95ea-fa1c30abed2a.jpg"
+            },
+            "thumbnail": {
+              "width": 192,
+              "height": 256,
+              "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/lotus-kupe-83bb9e1d-70e0-4af8-9c21-249860f03e61.jpg"
+            }
+          },
+          {
+            "width": 768,
+            "height": 1024,
+            "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/lotus-kupe-0148dc50-f9c4-4298-bd71-f3f479438efb.jpg",
+            "medium": {
+              "width": 384,
+              "height": 512,
+              "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/lotus-kupe-882da41d-c632-448a-80ab-81980b1ed0d5.jpg"
+            },
+            "thumbnail": {
+              "width": 192,
+              "height": 256,
+              "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/lotus-kupe-b5960a62-319e-4608-8434-7227007bd51b.jpg"
+            }
+          },
+          {
+            "width": 768,
+            "height": 1024,
+            "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/lotus-kupe-86a4e2b9-c8ae-4de4-9c5e-e19ec53167b3.jpg",
+            "medium": {
+              "width": 384,
+              "height": 512,
+              "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/lotus-kupe-0b50e9c8-5baf-4863-9d3c-2ff95ba6d195.jpg"
+            },
+            "thumbnail": {
+              "width": 192,
+              "height": 256,
+              "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/lotus-kupe-3d8868bb-9138-44a3-8833-c503c30b2ae3.jpg"
+            }
+          }
+        ],
+        "category": {
+          "id": 3,
+          "name": "Takı & Aksesuar",
+          "parent_id": 1,
+          "order": 0,
+          "parent_category": {
+            "id": 1,
+            "name": "Kadın",
+            "parent_id": null,
+            "order": 0,
+            "parent_category": null
+          }
+        }
+      },
+      {
+        "id": 119471,
+        "code": null,
+        "title": "Göz küpe",
+        "slug": "goz-kupe",
+        "definition": "İncili taşlı küpe",
+        "old_price": 34,
+        "price": 28,
+        "stock": 6,
+        "max_installment": null,
+        "commission_rate": 20,
+        "cargo_time": 1,
+        "is_cargo_free": true,
+        "is_new": true,
+        "reject_reason": null,
+        "category_id": 3,
+        "difference": "1 ay önce eklendi.",
+        "is_editor_choice": false,
+        "comment_count": 0,
+        "is_owner": false,
+        "is_approved": true,
+        "is_active": true,
+        "share_url": "https://www.vitrinova.com/urun/119471/goz-kupe",
+        "is_liked": false,
+        "like_count": 0,
+        "shop": {
+          "id": 111123,
+          "name": "Menessa",
+          "slug": "menessa",
+          "definition": "Türkiye'nin en moda takı ve aksesuar markası",
+          "name_updateable": true,
+          "vacation_mode": 0,
+          "created_at": "2017-07-29 15:50:25",
+          "shop_payment_id": 7,
+          "product_count": 24,
+          "shop_rate": 5,
+          "comment_count": 1,
+          "follower_count": 93,
+          "is_editor_choice": false,
+          "is_following": false,
+          "cover": {
+            "width": 1080,
+            "height": 540,
+            "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/menessa-fdaca9c7-c069-4c38-aaaf-2e7fb3b9dce4.jpg",
+            "medium": {
+              "width": 540,
+              "height": 270,
+              "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/menessa-2eeb8e99-a1ce-4ad8-bfaa-71610ce92e30.jpg"
+            },
+            "thumbnail": {
+              "width": 270,
+              "height": 135,
+              "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/menessa-678a1853-eb29-4139-b2cf-e3d61d38652d.jpg"
+            }
+          },
+          "share_url": "https://www.vitrinova.com/v/menessa",
+          "logo": {
+            "width": 512,
+            "height": 512,
+            "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/menessa-56b65e6b-8265-49f6-8db2-329bbd294cf0.jpg",
+            "medium": {
+              "width": 256,
+              "height": 256,
+              "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/menessa-e1bb71fc-48fd-4d22-932c-47598fbffd8e.jpg"
+            },
+            "thumbnail": {
+              "width": 128,
+              "height": 128,
+              "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/menessa-7d554c18-28c1-493d-bea1-15846fe52bea.jpg"
+            }
+          }
+        },
+        "category": {
+          "id": 3,
+          "name": "Takı & Aksesuar",
+          "parent_id": 1,
+          "order": 0,
+          "parent_category": {
+            "id": 1,
+            "name": "Kadın",
+            "parent_id": null,
+            "order": 0,
+            "parent_category": null
+          }
+        },
+        "images": [
+          {
+            "width": 1080,
+            "height": 1440,
+            "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/goz-kupe-4e5424ed-bba2-465c-9c6d-992ae9ea1055.jpg",
+            "medium": {
+              "width": 540,
+              "height": 720,
+              "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/goz-kupe-060c416d-7915-4e67-ae0b-3c25140da790.jpg"
+            },
+            "thumbnail": {
+              "width": 270,
+              "height": 360,
+              "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/goz-kupe-f021e61d-07ed-4bc3-852a-2af2f87bd8dd.jpg"
+            }
+          }
+        ]
+      },
+      {
+        "id": 119473,
+        "code": null,
+        "title": "Gerçek deri Mini zincir askılı çanta",
+        "slug": "gercek-deri-mini-zincir-askili-canta",
+        "definition": "Çep telefonu ve kartlık sığabilecek ölçüde deri bilek askısı ve zincir çapraz/kol askısı İle mini tasarım gerçek deri çanta",
+        "old_price": null,
+        "price": 250,
+        "stock": 2,
+        "max_installment": null,
+        "commission_rate": 20,
+        "cargo_time": 5,
+        "is_cargo_free": true,
+        "is_new": true,
+        "reject_reason": null,
+        "category_id": 5,
+        "difference": "3 hafta önce eklendi.",
+        "is_editor_choice": false,
+        "comment_count": 0,
+        "is_owner": false,
+        "is_approved": true,
+        "is_active": true,
+        "share_url": "https://www.vitrinova.com/urun/119473/gercek-deri-mini-zincir-askili-canta",
+        "is_liked": false,
+        "like_count": 0,
+        "shop": {
+          "id": 111821,
+          "name": "Deryle Design",
+          "slug": "deryle-design",
+          "definition": "Deri aksesuar, çanta ve tasarımlar",
+          "name_updateable": true,
+          "vacation_mode": 0,
+          "created_at": "2018-02-10 23:30:45",
+          "shop_payment_id": 370,
+          "product_count": 4,
+          "shop_rate": 0,
+          "comment_count": 0,
+          "follower_count": 8,
+          "is_editor_choice": false,
+          "is_following": false,
+          "cover": {
+            "width": 1080,
+            "height": 540,
+            "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/deryle-design-87916694-dfda-4402-82d7-313d1e8fe50d.jpg",
+            "medium": {
+              "width": 540,
+              "height": 270,
+              "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/deryle-design-f7741158-2413-4abb-ae2c-d7bfd4ae1786.jpg"
+            },
+            "thumbnail": {
+              "width": 270,
+              "height": 135,
+              "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/deryle-design-793f995f-82fb-49d7-b9d1-02d7aa9bcf0d.jpg"
+            }
+          },
+          "share_url": "https://www.vitrinova.com/v/deryle-design",
+          "logo": {
+            "width": 512,
+            "height": 512,
+            "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/deryle-design-6c8a4960-e82a-4b02-93ed-4b74834adc94.jpg",
+            "medium": {
+              "width": 256,
+              "height": 256,
+              "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/deryle-design-f31d7020-27a6-4cff-a59c-3d729f39c4db.jpg"
+            },
+            "thumbnail": {
+              "width": 128,
+              "height": 128,
+              "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/deryle-design-bf2d1901-de66-4d50-bc45-fdc5b6a7f47c.jpg"
+            }
+          }
+        },
+        "category": {
+          "id": 5,
+          "name": "Çanta",
+          "parent_id": 1,
+          "order": 0,
+          "parent_category": {
+            "id": 1,
+            "name": "Kadın",
+            "parent_id": null,
+            "order": 0,
+            "parent_category": null
+          }
+        },
+        "images": [
+          {
+            "width": 1080,
+            "height": 1440,
+            "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/gercek-deri-mini-zincir-askili-canta-677a34da-22d7-408c-bfba-b64d0735f697.jpg",
+            "medium": {
+              "width": 540,
+              "height": 720,
+              "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/gercek-deri-mini-zincir-askili-canta-ec47b87b-0bfe-4b35-b6d3-dede52ece667.jpg"
+            },
+            "thumbnail": {
+              "width": 270,
+              "height": 360,
+              "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/gercek-deri-mini-zincir-askili-canta-e8efba63-5052-4749-9ef5-c45bc251c976.jpg"
+            }
+          }
+        ]
+      },
+      {
+        "id": 119410,
+        "code": null,
+        "title": "Dekoratif  ahşap avize",
+        "slug": "dekoratif-ahsap-avize",
+        "definition": "İsteğe göre avize ya da masa lambası olarak sipariş verebilirsiniz",
+        "old_price": 230,
+        "price": 190,
+        "stock": 1,
+        "max_installment": null,
+        "commission_rate": 20,
+        "cargo_time": 2,
+        "is_cargo_free": true,
+        "is_new": true,
+        "reject_reason": null,
+        "category_id": 28,
+        "difference": "8 ay önce eklendi.",
+        "is_editor_choice": false,
+        "comment_count": 0,
+        "is_owner": false,
+        "is_approved": true,
+        "is_active": true,
+        "share_url": "https://www.vitrinova.com/urun/119410/dekoratif-ahsap-avize",
+        "is_liked": false,
+        "like_count": 0,
+        "shop": {
+          "id": 112058,
+          "name": "Ahsapevi",
+          "slug": "ahsapevi",
+          "definition": "Evinizde kullanabileceğiniz el yapımı ahşap aydınlatma ve aksesuar ürünleri ve el emeği kişiye özel hediyelik ürünleri vitrinimde bulabilirsiniz.",
+          "name_updateable": true,
+          "vacation_mode": 0,
+          "created_at": "2019-06-20 13:41:58",
+          "shop_payment_id": 501,
+          "product_count": 5,
+          "shop_rate": 0,
+          "comment_count": 0,
+          "follower_count": 0,
+          "is_editor_choice": false,
+          "is_following": false,
+          "cover": {
+            "width": 1080,
+            "height": 540,
+            "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/ahsapevi-8980dea9-26ad-4327-a16b-ec8efbd4466b.jpg",
+            "medium": {
+              "width": 540,
+              "height": 270,
+              "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/ahsapevi-d70cb9e0-c33d-4ecf-acde-6b4e1a0ef62f.jpg"
+            },
+            "thumbnail": {
+              "width": 270,
+              "height": 135,
+              "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/ahsapevi-6258546c-adcd-4458-bdb6-b859532bcdd3.jpg"
+            }
+          },
+          "share_url": "https://www.vitrinova.com/v/ahsapevi",
+          "logo": null
+        },
+        "category": {
+          "id": 28,
+          "name": "Aydınlatma",
+          "parent_id": 23,
+          "order": 0,
+          "parent_category": {
+            "id": 23,
+            "name": "Ev & Yaşam",
+            "parent_id": null,
+            "order": 0,
+            "parent_category": null
+          }
+        },
+        "images": [
+          {
+            "width": 768,
+            "height": 1024,
+            "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/dekoratif-ahsap-avize-d2a5a489-d161-4d1a-aa2d-bda9013faa4d.jpg",
+            "medium": {
+              "width": 384,
+              "height": 512,
+              "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/dekoratif-ahsap-avize-c2e84211-5a46-40f6-9f60-b5fd8e09d7c9.jpg"
+            },
+            "thumbnail": {
+              "width": 192,
+              "height": 256,
+              "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/dekoratif-ahsap-avize-59c92b4d-13b1-4d61-b1bb-55e95788f1bf.jpg"
+            }
+          },
+          {
+            "width": 1080,
+            "height": 1440,
+            "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/dekoratif-ahsap-avize-3984933a-fa47-4d20-a07e-9075acba4491.jpg",
+            "medium": {
+              "width": 540,
+              "height": 720,
+              "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/dekoratif-ahsap-avize-7b5378ba-4a69-4be6-8432-c25e401bb1a0.jpg"
+            },
+            "thumbnail": {
+              "width": 270,
+              "height": 360,
+              "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/dekoratif-ahsap-avize-a80755f2-c9c3-415d-9819-7730310bee52.jpg"
+            }
+          },
+          {
+            "width": 1080,
+            "height": 1440,
+            "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/dekoratif-ahsap-avize-6bda41ce-aaf1-43fb-88db-97b75ab65190.jpg",
+            "medium": {
+              "width": 540,
+              "height": 720,
+              "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/dekoratif-ahsap-avize-c1ce57d2-7902-4c7e-b0de-6faca3e2abf8.jpg"
+            },
+            "thumbnail": {
+              "width": 270,
+              "height": 360,
+              "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/dekoratif-ahsap-avize-d9c78e17-7a14-4e90-852f-93f23574af60.jpg"
+            }
+          }
+        ]
+      },
+      {
+        "id": 119411,
+        "code": null,
+        "title": "Sonsuz aşk takı kutusu",
+        "slug": "sonsuz-ask-taki-kutusu",
+        "definition": "İç derinliği 0.5 cm dir. \nSonsuz aşk deseni kabartmadır.",
+        "old_price": 55,
+        "price": 48,
+        "stock": 1,
+        "max_installment": null,
+        "commission_rate": 20,
+        "cargo_time": 2,
+        "is_cargo_free": true,
+        "is_new": true,
+        "reject_reason": null,
+        "category_id": 35,
+        "difference": "8 ay önce eklendi.",
+        "is_editor_choice": false,
+        "comment_count": 0,
+        "is_owner": false,
+        "is_approved": true,
+        "is_active": true,
+        "share_url": "https://www.vitrinova.com/urun/119411/sonsuz-ask-taki-kutusu",
+        "is_liked": false,
+        "like_count": 0,
+        "shop": {
+          "id": 112058,
+          "name": "Ahsapevi",
+          "slug": "ahsapevi",
+          "definition": "Evinizde kullanabileceğiniz el yapımı ahşap aydınlatma ve aksesuar ürünleri ve el emeği kişiye özel hediyelik ürünleri vitrinimde bulabilirsiniz.",
+          "name_updateable": true,
+          "vacation_mode": 0,
+          "created_at": "2019-06-20 13:41:58",
+          "shop_payment_id": 501,
+          "product_count": 5,
+          "shop_rate": 0,
+          "comment_count": 0,
+          "follower_count": 0,
+          "is_editor_choice": false,
+          "is_following": false,
+          "cover": {
+            "width": 1080,
+            "height": 540,
+            "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/ahsapevi-8980dea9-26ad-4327-a16b-ec8efbd4466b.jpg",
+            "medium": {
+              "width": 540,
+              "height": 270,
+              "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/ahsapevi-d70cb9e0-c33d-4ecf-acde-6b4e1a0ef62f.jpg"
+            },
+            "thumbnail": {
+              "width": 270,
+              "height": 135,
+              "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/ahsapevi-6258546c-adcd-4458-bdb6-b859532bcdd3.jpg"
+            }
+          },
+          "share_url": "https://www.vitrinova.com/v/ahsapevi",
+          "logo": null
+        },
+        "category": {
+          "id": 35,
+          "name": "Diğer",
+          "parent_id": null,
+          "order": 0,
+          "parent_category": null
+        },
+        "images": [
+          {
+            "width": 1024,
+            "height": 768,
+            "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/sonsuz-ask-taki-kutusu-834d96d3-7321-4d34-aa8c-2d1c7e5e964b.jpg",
+            "medium": {
+              "width": 512,
+              "height": 384,
+              "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/sonsuz-ask-taki-kutusu-e6ff93f4-282a-42e2-a486-52f37091480a.jpg"
+            },
+            "thumbnail": {
+              "width": 256,
+              "height": 192,
+              "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/sonsuz-ask-taki-kutusu-a0c0ee94-10db-4cee-b45d-271691a6ab1c.jpg"
+            }
+          },
+          {
+            "width": 1024,
+            "height": 1024,
+            "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/sonsuz-ask-taki-kutusu-258552ae-f846-464c-a080-eea6ac295f80.jpg",
+            "medium": {
+              "width": 512,
+              "height": 512,
+              "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/sonsuz-ask-taki-kutusu-aed1b3ac-ffa6-4abb-815f-e86841f9218a.jpg"
+            },
+            "thumbnail": {
+              "width": 256,
+              "height": 256,
+              "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/sonsuz-ask-taki-kutusu-e814fa19-3b5e-47fd-bce1-7d2b399d69ed.jpg"
+            }
+          },
+          {
+            "width": 1024,
+            "height": 1024,
+            "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/sonsuz-ask-taki-kutusu-4114a075-e2dc-43b3-a1a7-d573ebc26425.jpg",
+            "medium": {
+              "width": 512,
+              "height": 512,
+              "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/sonsuz-ask-taki-kutusu-5abd15e7-22c2-48cc-85d0-ea2944876ff8.jpg"
+            },
+            "thumbnail": {
+              "width": 256,
+              "height": 256,
+              "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/sonsuz-ask-taki-kutusu-7de2deaa-803c-492b-9576-bd6c0f45f3ce.jpg"
+            }
+          }
+        ]
+      },
+      {
+        "id": 119412,
+        "code": null,
+        "title": "Masa üstü gece lambası",
+        "slug": "masa-ustu-gece-lambasi",
+        "definition": "Keten jüt bezi ve ahşaptan yapılma el yapımı gece lambasıdır. \nİsterseniz duvara asılacak şekilde de tasarlayanilirim.",
+        "old_price": 210,
+        "price": 175,
+        "stock": 1,
+        "max_installment": null,
+        "commission_rate": 20,
+        "cargo_time": 2,
+        "is_cargo_free": true,
+        "is_new": true,
+        "reject_reason": null,
+        "category_id": 28,
+        "difference": "8 ay önce eklendi.",
+        "is_editor_choice": false,
+        "comment_count": 0,
+        "is_owner": false,
+        "is_approved": true,
+        "is_active": true,
+        "share_url": "https://www.vitrinova.com/urun/119412/masa-ustu-gece-lambasi",
+        "is_liked": false,
+        "like_count": 0,
+        "shop": {
+          "id": 112058,
+          "name": "Ahsapevi",
+          "slug": "ahsapevi",
+          "definition": "Evinizde kullanabileceğiniz el yapımı ahşap aydınlatma ve aksesuar ürünleri ve el emeği kişiye özel hediyelik ürünleri vitrinimde bulabilirsiniz.",
+          "name_updateable": true,
+          "vacation_mode": 0,
+          "created_at": "2019-06-20 13:41:58",
+          "shop_payment_id": 501,
+          "product_count": 5,
+          "shop_rate": 0,
+          "comment_count": 0,
+          "follower_count": 0,
+          "is_editor_choice": false,
+          "is_following": false,
+          "cover": {
+            "width": 1080,
+            "height": 540,
+            "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/ahsapevi-8980dea9-26ad-4327-a16b-ec8efbd4466b.jpg",
+            "medium": {
+              "width": 540,
+              "height": 270,
+              "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/ahsapevi-d70cb9e0-c33d-4ecf-acde-6b4e1a0ef62f.jpg"
+            },
+            "thumbnail": {
+              "width": 270,
+              "height": 135,
+              "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/ahsapevi-6258546c-adcd-4458-bdb6-b859532bcdd3.jpg"
+            }
+          },
+          "share_url": "https://www.vitrinova.com/v/ahsapevi",
+          "logo": null
+        },
+        "category": {
+          "id": 28,
+          "name": "Aydınlatma",
+          "parent_id": 23,
+          "order": 0,
+          "parent_category": {
+            "id": 23,
+            "name": "Ev & Yaşam",
+            "parent_id": null,
+            "order": 0,
+            "parent_category": null
+          }
+        },
+        "images": [
+          {
+            "width": 768,
+            "height": 1024,
+            "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/masa-ustu-gece-lambasi-d9fcd648-a887-47a7-b439-001f4fa7e46c.jpg",
+            "medium": {
+              "width": 384,
+              "height": 512,
+              "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/masa-ustu-gece-lambasi-05ac26e0-4a72-407f-a54a-f8295be4a242.jpg"
+            },
+            "thumbnail": {
+              "width": 192,
+              "height": 256,
+              "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/masa-ustu-gece-lambasi-2ed84880-7387-494d-9e24-99dbd4e78e2e.jpg"
+            }
+          },
+          {
+            "width": 1080,
+            "height": 1440,
+            "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/masa-ustu-gece-lambasi-e7176f81-3ba6-4bb9-bfb8-7759459f086d.jpg",
+            "medium": {
+              "width": 540,
+              "height": 720,
+              "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/masa-ustu-gece-lambasi-068c1e83-02b8-4bc1-9418-b4a864a48fc2.jpg"
+            },
+            "thumbnail": {
+              "width": 270,
+              "height": 360,
+              "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/masa-ustu-gece-lambasi-1505ff47-6c09-4fed-bddf-73971a68e183.jpg"
+            }
+          },
+          {
+            "width": 1080,
+            "height": 1440,
+            "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/masa-ustu-gece-lambasi-d433fc88-df60-46a8-b99b-4d49b46f3e8e.jpg",
+            "medium": {
+              "width": 540,
+              "height": 720,
+              "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/masa-ustu-gece-lambasi-d4ecb286-f6fc-41bc-94bb-32694c951d68.jpg"
+            },
+            "thumbnail": {
+              "width": 270,
+              "height": 360,
+              "url": "https://d3fwvrpbsa6rxi.cloudfront.net/images/masa-ustu-gece-lambasi-8c0a0bad-64ba-4ada-9c1f-a1f96ae5390a.jpg"
+            }
+          }
+        ]
+      }
     ],
-    "img": "https://images.amcnetworks.com/amc.com/wp-content/uploads/2015/04/cast_bb_700x1000_walter-white-lg.jpg",
-    "status": "Presumed dead",
-    "nickname": "Heisenberg",
-    "appearance": [
-      1,
-      2,
-      3,
-      4,
-      5
-    ],
-    "portrayed": "Bryan Cranston",
-    "category": "Breaking Bad",
-    "better_call_saul_appearance": []
-  },
-  {
-    "char_id": 2,
-    "name": "Jesse Pinkman",
-    "birthday": "09-24-1984",
-    "occupation": [
-      "Meth Dealer"
-    ],
-    "img": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Jesse_Pinkman2.jpg/220px-Jesse_Pinkman2.jpg",
-    "status": "Alive",
-    "nickname": "Cap n' Cook",
-    "appearance": [
-      1,
-      2,
-      3,
-      4,
-      5
-    ],
-    "portrayed": "Aaron Paul",
-    "category": "Breaking Bad",
-    "better_call_saul_appearance": []
-  },
-  {
-    "char_id": 3,
-    "name": "Skyler White",
-    "birthday": "08-11-1970",
-    "occupation": [
-      "House wife",
-      "Book Keeper",
-      "Car Wash Manager",
-      "Taxi Dispatcher"
-    ],
-    "img": "https://s-i.huffpost.com/gen/1317262/images/o-ANNA-GUNN-facebook.jpg",
-    "status": "Alive",
-    "nickname": "Sky",
-    "appearance": [
-      1,
-      2,
-      3,
-      4,
-      5
-    ],
-    "portrayed": "Anna Gunn",
-    "category": "Breaking Bad",
-    "better_call_saul_appearance": []
-  },
-  {
-    "char_id": 4,
-    "name": "Walter White Jr.",
-    "birthday": "07-08-1993",
-    "occupation": [
-      "Teenager"
-    ],
-    "img": "https://media1.popsugar-assets.com/files/thumbor/WeLUSvbAMS_GL4iELYAUzu7Bpv0/fit-in/1024x1024/filters:format_auto-!!-:strip_icc-!!-/2018/01/12/910/n/1922283/fb758e62b5daf3c9_TCDBRBA_EC011/i/RJ-Mitte-Walter-White-Jr.jpg",
-    "status": "Alive",
-    "nickname": "Flynn",
-    "appearance": [
-      1,
-      2,
-      3,
-      4,
-      5
-    ],
-    "portrayed": "RJ Mitte",
-    "category": "Breaking Bad",
-    "better_call_saul_appearance": []
-  },
-  {
-    "char_id": 5,
-    "name": "Henry Schrader",
-    "birthday": "Unknown",
-    "occupation": [
-      "DEA Agent"
-    ],
-    "img": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c1/Hank_Schrader2.jpg/220px-Hank_Schrader2.jpg",
-    "status": "Deceased",
-    "nickname": "Hank",
-    "appearance": [
-      1,
-      2,
-      3,
-      4,
-      5
-    ],
-    "portrayed": "Dean Norris",
-    "category": "Breaking Bad",
-    "better_call_saul_appearance": []
-  },
-  {
-    "char_id": 6,
-    "name": "Seidov",
-    "birthday": "Unknown",
-    "occupation": [
-      "DEA Agent"
-    ],
-    "img": "http://192.168.0.150:21075/eshop/tema/growth/assets/img/sliderbg.jpg",
-    "status": "Deceased",
-    "nickname": "Hank",
-    "appearance": [
-      1,
-      2,
-      3,
-      4,
-      5
-    ],
-    "portrayed": "Dean Norris",
-    "category": "Breaking Bad",
-    "better_call_saul_appearance": []
+    "product_count": 29
   }
-  ]
 }
